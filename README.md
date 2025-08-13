@@ -1,4 +1,4 @@
-# GGJ22
+# Paralements
 ![image](https://user-images.githubusercontent.com/82424347/159069957-73533f35-2d18-4f61-9026-6e947e290fe0.png)
 
 Top down action game. 
